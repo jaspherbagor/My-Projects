@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-image: url('https://img.freepik.com/free-vector/gradient-purple-hexagonal-background_23-2148965956.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+}
+
+  h1 {
+    margin: 20px 10px auto auto;
+    font-style: normal;
+    font-family: Tahoma;
+    font-weight: bolder;
+    letter-spacing:.2em
+  }
+  
+  h2 {
+    text-transform: uppercase;
+    font-weight: bold
+  }
+
+  form {
+    margin: 0 auto;
+    width: 300px;
+    height: 100vh
+  }
+  
+  input {
+    padding: 5px;
+    border: 2px solid black;
+  }
+  
+  input[type="submit"] {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-left: 90px;
+    margin-top: 20px
+  }
+
+  label {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+  }
